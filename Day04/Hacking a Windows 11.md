@@ -1,4 +1,4 @@
-HACKING A WINDOWS 11
+<h1>HACKING A WINDOWS 11</h1>
 Two types of analysis: STATIC and DYNAMIC
 Static: constant -> tries to decompile software (EXE - a zip file (executable))
 Dynamic: varying (run-time analysis) -> takes a particular software and puts it in a sandbox (for runtime analysis)
@@ -8,3 +8,9 @@ echo- prints stuff
 chmod- gives permissions
 
 villian framework
+
+. means current directory
+
+obfuscation
+
+git clone https://github.com/keralahacker/Villain.git
