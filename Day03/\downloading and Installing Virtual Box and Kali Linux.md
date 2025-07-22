@@ -6,6 +6,7 @@ TO DOWNLOAD VIRTUAL BOX
 
 Problems I faced:
 Oracle VirtualBox 7.1.12 required the Microsoft Visual C++ 2019 Redistributable Package to be installed on my Windows system.
+
 How I resolved it:
 I downloaded it from this link: https://aka.ms/vs/17/release/vc_redist.x64.exe
 And then I ran the installer again
@@ -25,5 +26,6 @@ TO DOWNLOAD KALI LINUX
 
 Problems I faced:
 I had not unzipped the file when I booted it for the first time, which resulted in an error.
+
 How I resolved it:
 I unzipped the file and tried again.
