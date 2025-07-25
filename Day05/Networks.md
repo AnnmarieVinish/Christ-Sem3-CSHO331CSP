@@ -1,4 +1,4 @@
-nat- network adapt trannslater
+<img width="1351" height="893" alt="image" src="https://github.com/user-attachments/assets/ea8abb8f-e86a-4c4f-a58b-796a539d0999" />nat- network adapt trannslater
 UDP- User Datagram Protocol 
 tcp - transfer control protocol
 tcp vs udp
@@ -22,3 +22,15 @@ Information gathering
 - active : with dierect contact
 
 passive hacking: creating a malware etc for a community of people
+
+
+l1- entry level
+
+-Pm-A-sV-O-oM--script-vv-p-sT  ->nmap command (very important)
+
+nmap --help
+
+TRYING TO CRREATE A NETWORK
+lo : local host 
+eth0:
+
