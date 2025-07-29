@@ -1,7 +1,7 @@
 <h1>WHAT IS A NETWORK</h1>
 A network is a A collection of computers and other devices connected to share resources and information.<br>
 <h2>Key Components of a Network</h2>
-<b>Component</b>&nbsp&nbsp&nbsp          	<b>Function</b><br>
+<b>Component</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp         	<b>Function</b><br>
 Router&nbsp&nbsp&nbsp	            Connects devices to the internet/n<br>
 Switch&nbsp&nbsp&nbsp	           Connects devices within a LAN<br>
 Modem  &nbsp&nbsp&nbsp            	Connects the local network to the ISP (internet provider)<br>
